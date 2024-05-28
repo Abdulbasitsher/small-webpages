@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+}
+
+#navbar{
+    height: 100px;
+    background-color: black;
+}
+
+#logo{
+    height: 60px;
+}
